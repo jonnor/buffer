@@ -1,0 +1,18 @@
+{
+  "name": "buffer",
+  "description": "Browser implementation of Node.JS Buffer API",
+  "author": "Feross Aboukhadijeh <feross@feross.org>",
+  "repo": "jonnor/buffer",
+  "version": "2.1.5",
+  "keywords": [
+    "Buffer", "TypedArray", "binary", "arraybuffer", "uint8array"
+  ],
+  "dependencies": {
+    "jonnor/ieee754": "*",
+    "jonnor/base64-js": "*"
+  },
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
